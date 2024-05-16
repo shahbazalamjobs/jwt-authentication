@@ -1,0 +1,17 @@
+/* frontend/src/index.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+input {
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+}
